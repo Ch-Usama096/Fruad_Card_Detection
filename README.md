@@ -1,1 +1,1 @@
-# End TO End Data Science Project (Fraud Card Detection)
+# End to End Data Science Project (Fraud Card Detection)
