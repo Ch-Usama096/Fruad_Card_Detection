@@ -19,7 +19,7 @@ listOfFiles = [
     f"src/{peojectName}/pipelines/prediction_pipeline.py",
     f"src/{peojectName}/exception.py",
     f"src/{peojectName}/logger.py",
-    f"src/{peojectName}/utils.",
+    f"src/{peojectName}/utils.py",
     "app.py",
     "setup.py",
     "requirements.txt"
@@ -41,3 +41,4 @@ for filepath in listOfFiles:
             logging.info(f"Creating empty file: {filepath}")
     else:
         logging.info(f"{filename} is already exists")
+
